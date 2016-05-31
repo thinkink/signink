@@ -1,4 +1,11 @@
-﻿
+/**
+ * Signink - a experiment to make canvas Data Url badges.
+ *
+ * @author     Thinkink.es
+ * @copyright  (c) since 2016 Thinkink
+ * @license    MIT - http://opensource.org/licenses/MIT
+ * @url        https://github.com/thinkink/signink
+ */
 
 var signink = function(name, w , h) {
         name  = name || '';
