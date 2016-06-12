@@ -7,7 +7,7 @@ Canvas Badges made easy.
 Easy create canvas banners on the fly.
 
 
-![signink | Badges made easy](banner.png)
+![signink | Badges made easy](img/banner.png)
 
 ---------------------
 
